@@ -23,3 +23,10 @@ app = FastAPI()
 async def root():
   return {"message":"hello word"}```
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
