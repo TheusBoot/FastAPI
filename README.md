@@ -4,7 +4,7 @@
 
 * O desenvolvimento com FastAPI é rápido e seguro e super recomendado
 * A tecnologia nova que já tá ganhando um bom mercado e eu aproveitei para aplicar alguns testes com ela.
-* Acesse o site e fique por dentro sobre tudo que acontece com FastAPI
+* Acesse o site e fique por dentro sobre tudo que acontece com [FastAPI](https://fastapi.tiangolo.com/)
 ***
 ## Pontos Positivos;
 
