@@ -15,13 +15,15 @@ _Coisas Complexas e demoradas são formadas por diversas coisas simples e pequen
 
 ## Código Básico do FastAPI
 
-```from fastapi import FastAPI`
+from fastapi import FastAPI`
 
 app = FastAPI()
 
 @app.get("/")
 async def root():
-  return {"message":"hello word"}```
+  return {"message":"hello word"}
+
+
 
 ```javascript
 function fancyAlert(arg) {
