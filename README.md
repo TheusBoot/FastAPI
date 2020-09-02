@@ -21,5 +21,5 @@ _Coisas Complexas e demoradas são formadas por diversas coisas simples e pequen
 
 `@app.get("/")`
 `async def root():`
-    `return {"message":"hello word"}`
+`    return {"message":"hello word"}`
 
