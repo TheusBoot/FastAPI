@@ -15,7 +15,7 @@ _Coisas Complexas e demoradas são formadas por diversas coisas simples e pequen
 
 ## Código Básico do FastAPI
 
-``
+```
 from fastapi import FastAPI
 
 app = FastAPI()
@@ -23,7 +23,7 @@ app = FastAPI()
 @app.get("/")
 async def root():
   return {"message":"hello word"}
-``
+```
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
