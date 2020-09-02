@@ -19,7 +19,7 @@ _Coisas Complexas e demoradas são formadas por diversas coisas simples e pequen
 
 `app = FastAPI()`
 
-`@app.get("/")`
+``@app.get("/")``
 `async def root():`
 `    return {"message":"hello word"}`
 
