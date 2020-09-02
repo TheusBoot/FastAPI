@@ -15,7 +15,7 @@ _Coisas Complexas e demoradas são formadas por diversas coisas simples e pequen
 
 ## Código Básico do FastAPI
 
-```
+```python3
 from fastapi import FastAPI
 
 app = FastAPI()
